@@ -1,0 +1,52 @@
+.body{
+    padding:50px;
+    background-color: aqua;
+}
+
+
+#form{
+    
+    background-color:chocolate;
+    width: 430px;
+    align-items: center;
+    padding: 20px;
+    padding-top: 30px;
+}
+#name{
+    background-color: lightpink;
+    font-weight: 700;
+}
+#rollnumber{
+    background-color: lightpink;
+    font-weight: 700;
+}
+#calci{
+    
+    background-color:chocolate;
+    height: 60px;
+   padding: 20px;
+}
+#num1{
+    background-color: lightpink;
+    font-weight: 700;
+}
+#num2{
+    background-color: lightpink;
+    font-weight: 700;
+}
+.btn{
+    background-color:rgb(61, 255, 203);
+    font-weight: bold;
+}
+#table{
+    background-color: chocolate;
+    font-weight: 600;
+    width:430px;
+    padding: 20px;
+}
+#result{
+    background-color: chocolate;
+    font-weight: 600;
+    width:433px;
+    padding: 20px;
+}
